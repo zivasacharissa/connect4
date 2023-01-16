@@ -5,7 +5,7 @@
     <!-- do not change this -->
     <groupId>com.thg.accelerator23.connectn.ai</groupId>
     <!-- do not change this -->
-    <artifactId>ziva</artifactId>
+    <artifactId>Connect4CaptainsMistress</artifactId>
     <version>2.0</version>
 
     <repositories>
@@ -19,7 +19,7 @@
 
     <properties>
         <!-- FIXME Fill in these properties - they need to be lowercase -->
-        <yourteam>ziva</yourteam>
+        <yourteam>Connect4CaptainsMistress</yourteam>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>

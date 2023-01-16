@@ -1,4 +1,4 @@
-package com.thg.accelerator23.connectn.ai.ziva;
+package com.thg.accelerator23.connectn.ai.Connect4CaptainsMistress;
 
 public class MctsAnalyser {
     public final int height;

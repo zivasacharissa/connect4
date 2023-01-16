@@ -1,8 +1,7 @@
-package com.thg.accelerator23.connectn.ai.ziva;
+package com.thg.accelerator23.connectn.ai.Connect4CaptainsMistress;
 
 import com.thehutgroup.accelerator.connectn.player.Board;
 import java.util.ArrayList;
-import java.util.Collections;
 
 public class MonteCarloTS {
     private MCTSNode root; // starting state
